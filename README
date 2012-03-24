@@ -4,3 +4,4 @@ retry-hander with scala.
 以下のコードに触発されて，scala バージョンを作ってみました。
 https://github.com/yoshiori/retry-handler
 
+例外処理を Option に翻訳しています。
