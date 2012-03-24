@@ -1,5 +1,5 @@
 retry-hander with scala.
-========================
+==========================
 
 以下のコードに触発されて，scala バージョンを作ってみました。
 https://github.com/yoshiori/retry-handler
